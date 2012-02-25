@@ -120,11 +120,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="431.5"
-     inkscape:cy="1806.4858"
+     inkscape:zoom="0.40234375"
+     inkscape:cx="512"
+     inkscape:cy="1222.8349"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,7 +178,14 @@
      id="layer1"
      transform="translate(0,995.63782)">
     <rect
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect2993-7-5"
+       width="1024"
+       height="2048"
+       x="0"
+       y="-995.63782" />
+    <rect
+       style="fill:#5f8dd3;fill-opacity:1;stroke:none"
        id="rect2993"
        width="1025.293"
        height="256"
@@ -314,7 +321,8 @@
        y="432.36218" />
     <g
        id="g5081"
-       transform="translate(0,-13)">
+       transform="translate(0,-13)"
+       style="fill:#cccccc">
       <path
          transform="matrix(0.64,0,0,0.76190476,298.52,-677.80925)"
          d="m 807,1339.5 a 12.5,10.5 0 1 1 -25,0 12.5,10.5 0 1 1 25,0 z"
@@ -323,7 +331,7 @@
          sodipodi:cy="1339.5"
          sodipodi:cx="794.5"
          id="path5022"
-         style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+         style="fill:#808080;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
          transform="matrix(0.64,0,0,0.76190476,316.85329,-677.80925)"
@@ -333,7 +341,7 @@
          sodipodi:cy="1339.5"
          sodipodi:cx="794.5"
          id="path5022-1"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+         style="fill:#cccccc;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
          transform="matrix(0.64,0,0,0.76190476,353.52,-677.80925)"
@@ -343,7 +351,7 @@
          sodipodi:cy="1339.5"
          sodipodi:cx="794.5"
          id="path5022-6"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+         style="fill:#cccccc;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
          transform="matrix(0.64,0,0,0.76190476,335.18669,-677.80925)"
@@ -353,8 +361,25 @@
          sodipodi:cy="1339.5"
          sodipodi:cx="794.5"
          id="path5022-9"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+         style="fill:#cccccc;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="901"
+         y="-960.63782"
+         id="text5537"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5539"
+           x="901"
+           y="-960.63782"><tspan
+             style="fill:#ffffff"
+             id="tspan5541">Register</tspan><tspan
+             style="fill:#cccccc"
+             id="tspan5545"> or</tspan><tspan
+             style="fill:#ffffff"
+             id="tspan5543"> sing-in</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.40536447,0,0,0.4379997,90.653,-1052.4575)"
@@ -413,5 +438,12 @@
          id="rect3063-91"
          style="fill:#ffeeaa;fill-opacity:1;stroke:none" />
     </g>
+    <rect
+       style="fill:#87aade;fill-opacity:1;stroke:none"
+       id="rect2993-7"
+       width="1025.293"
+       height="255.5"
+       x="0"
+       y="796.86218" />
   </g>
 </svg>
