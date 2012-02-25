@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="drawing-1.svg">
+   sodipodi:docname="author-layout.svg">
   <defs
      id="defs4">
     <marker
@@ -124,7 +124,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="431.5"
-     inkscape:cy="806.48579"
+     inkscape:cy="1806.4858"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -355,6 +355,63 @@
          id="path5022-9"
          style="fill:#f9f9f9;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
+    </g>
+    <g
+       transform="matrix(0.40536447,0,0,0.4379997,90.653,-1052.4575)"
+       id="g5471">
+      <rect
+         ry="16.944519"
+         y="369.85394"
+         x="66.666664"
+         height="89.057755"
+         width="183.87788"
+         id="rect3932"
+         style="fill:#ff0000;fill-opacity:1;stroke:none" />
+      <rect
+         rx="22.402678"
+         ry="14.070053"
+         y="406.40179"
+         x="105.75036"
+         height="59.075912"
+         width="152.19566"
+         id="rect3887-1"
+         style="fill:#fff6d5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="scccccccscs"
+         inkscape:connector-curvature="0"
+         id="rect3887-1-8"
+         d="m 127.73138,406.71875 c -11.97965,0 -21.69825,5.88903 -22.29388,13.34375 l 0,22.4375 c 2.37956,5.8491 -1.73906,10.6628 7.62849,10.625 l 99.57516,-0.875 c 11.26623,-0.0455 29.67316,-7.58385 29.8601,-20.1875 l 0.3425,-23.75 c 0.003,-0.22177 -0.017,-0.43717 -0.0311,-0.65625 -2.506,-0.61092 -5.23937,-0.9375 -8.09554,-0.9375 l -106.98569,0 z"
+         style="fill:#ffeeaa;fill-opacity:1;stroke:none" />
+      <rect
+         rx="31.827143"
+         ry="32.775753"
+         y="319.35889"
+         x="21.122108"
+         height="119.80199"
+         width="216.22206"
+         id="rect3887"
+         style="fill:#fff6d5;fill-opacity:1;stroke:none" />
+      <rect
+         y="368.13321"
+         x="171.42899"
+         height="70.627068"
+         width="6"
+         id="rect3063"
+         style="fill:#ffeeaa;fill-opacity:1;stroke:none" />
+      <rect
+         y="373.76654"
+         x="112.61331"
+         height="65.724358"
+         width="6"
+         id="rect3063-6"
+         style="fill:#ffeeaa;fill-opacity:1;stroke:none" />
+      <rect
+         y="381.31784"
+         x="58.134342"
+         height="57.890026"
+         width="6"
+         id="rect3063-91"
+         style="fill:#ffeeaa;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
